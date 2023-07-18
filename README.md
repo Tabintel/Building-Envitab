@@ -21,11 +21,12 @@ Envitab is an online waste disposal platform that connects waste disposal compan
 
 📊 Analytics and Reporting: Gain insights into waste management performance, track key metrics, and make data-driven decisions.
 
-## Installation
+## Contact
 
-Follow these steps to set up Envitab locally:
+Have questions or suggestions? Feel free to reach out!
 
-1. Clone the repository:
+📧 Email: [contact@envitab.com](mailto:ekeminisamuel19@gmail.com)
+💬 LinkedIn: [Envitab](https://www.linkedin.com/company/envitab/)
+🐦 Twitter: [@realEkemini](https://twitter.com/realEkemini)
 
-```bash
-git clone https://github.com/your-username/envitab.git
+Enjoy hassle-free waste disposal with Envitab! Together, let's build a cleaner and more sustainable future. ♻️🌍
