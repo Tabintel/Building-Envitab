@@ -7,7 +7,7 @@
 
 Envitab is an online waste disposal platform that connects waste disposal companies with individuals and businesses seeking efficient and sustainable waste management solutions.
 
-🚀 [Live Demo](https://envitab.netlify.app/) | 📖 [Documentation](docs/README.md)
+🚀 [Live Demo](https://envitab.netlify.app/) | 📖 [Documentation](/README.md)
 
 ## Features
 
