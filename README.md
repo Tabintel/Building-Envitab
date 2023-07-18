@@ -27,6 +27,6 @@ Have questions or suggestions? Feel free to reach out!
 
 - 📧 Email: [contact@envitab.com](mailto:ekeminisamuel19@gmail.com)
 - 💬 LinkedIn: [Envitab](https://www.linkedin.com/company/envitab/)
-- 🐦 Twitter: [@realEkemini](https://twitter.com/realEkemini)
+- 🐦 Twitter: [@envitab](https://twitter.com/realEkemini)
 
 Enjoy hassle-free waste disposal with Envitab! Together, let's build a cleaner and more sustainable future. ♻️🌍
